@@ -1,8 +1,8 @@
-🌀 Chaotic Pendulum Simulation
+#🌀 Chaotic Pendulum Simulation
 
-A professional-grade physics simulation that models and visualizes the chaotic dynamics of a double pendulum using numerical methods and an interactive Streamlit interface.
+A professional grade physics simulation that models and visualizes the chaotic dynamics of a double pendulum using numerical methods and an interactive interface.
 
-This project demonstrates the complete scientific workflow — from physical theory and mathematical modeling to computation, visualization, and numerical analysis.
+This project demonstrates the complete scientific workflow — from physical theory and mathematical modelling to computation, visualization and numerical analysis.
 
 📌 Project Overview
 
