@@ -70,9 +70,9 @@ Energy conservation
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/project folder name
+git clone https://github.com/mudit108-code/Pendulum-Chaos
 
-cd project folder name
+cd Pendulum-Chaos
 
 2️⃣ Create a Virtual Environment (Recommended)
 
