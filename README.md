@@ -68,11 +68,13 @@ Energy conservation
 
 ⚙️ Environment Setup:
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/project folder name
 
 cd project folder name
 
 2️⃣ Create a Virtual Environment (Recommended)
+
 python -m venv venv
 
 
@@ -88,6 +90,7 @@ macOS / Linux
 source venv/bin/activate
 
 3️⃣ Install Dependencies:
+
 pip install -r requirements.txt
 
 ▶️ Running the Application:
