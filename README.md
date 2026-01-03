@@ -1,10 +1,10 @@
-#🌀 Chaotic Pendulum Simulation
+🌀 Pendulum Chaos - Chaotic Pendulum Simulation:
 
 A professional grade physics simulation that models and visualizes the chaotic dynamics of a double pendulum using numerical methods and an interactive interface.
 
 This project demonstrates the complete scientific workflow — from physical theory and mathematical modelling to computation, visualization and numerical analysis.
 
-📌 Project Overview
+📌 Project Overview:
 
 The double pendulum is a classical mechanical system known for exhibiting deterministic chaos, where small variations in initial conditions lead to drastically different trajectories.
 
@@ -14,30 +14,30 @@ Solves the nonlinear coupled differential equations governing the system
 
 Uses high-precision numerical integration
 
-Provides interactive controls, mathematical explanations, and scientific plots
+Provides interactive controls, mathematical explanations and scientific plots
 
 Validates results using energy conservation
 
-✨ Key Features
+✨ Key Features:
 
-📘 Theory Section
-Clear explanation of the physical phenomenon, parameters, and constraints
+📘 Theory Section:
+Clear explanation of the physical phenomenon, parameters and constraints
 
-⚙️ Interactive Simulation Controls
+⚙️ Interactive Simulation Controls:
 
-Dual input modes: Slider-based and Manual entry
+Dual input modes: Slider based and Manual entry
 
 Real-time parameter configuration
 
-📐 Mathematical Model & Equations Page
+📐 Mathematical Model & Equations Page:
 
 Governing equations derived from Lagrangian mechanics
 
 Live display of initial state vectors and parameter values
 
-Explanation of numerical solver behavior
+Explanation of numerical solver behaviour
 
-📊 Results & Analysis
+📊 Results & Analysis:
 
 Trajectory of the pendulum
 
@@ -49,10 +49,10 @@ Total energy vs time
 
 Numerical summaries (max angles, energy statistics)
 
-🧪 Numerical Validation
+🧪 Numerical Validation:
 Energy conservation used to assess simulation accuracy
 
-🧠 Scientific Concepts Demonstrated
+🧠 Scientific Concepts Demonstrated:
 
 Nonlinear dynamics
 
@@ -66,7 +66,7 @@ Phase-space analysis
 
 Energy conservation
 
-⚙️ Environment Setup
+⚙️ Environment Setup:
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/project folder name
 cd project folder name
@@ -86,16 +86,16 @@ macOS / Linux
 
 source venv/bin/activate
 
-3️⃣ Install Dependencies
+3️⃣ Install Dependencies:
 pip install -r requirements.txt
 
-▶️ Running the Application
+▶️ Running the Application:
 
-Launch the Streamlit app using:
+Launch the app using:
 
 streamlit run app.py
 
-🧭 How to Use the App
+🧭 How to Use the App:
 
 Navigate using the sidebar menu
 
